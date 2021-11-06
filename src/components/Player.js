@@ -1,3 +1,4 @@
+
 function Player() {
   return (
     <article className='Player'>
